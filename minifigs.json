@@ -399,6 +399,27 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "twn251",
+   "MinifigName": "Bank Manager (10251)",
+   "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "twn252",
+   "MinifigName": "Bank Secretary (10251)",
+   "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "twn248",
+   "MinifigName": "Bank Teller (10251)",
+   "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "col224",
    "MinifigName": "Banshee - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 14 Minifigures",
@@ -534,7 +555,7 @@
  {
    "MinifigNumber": "sh043",
    "MinifigName": "Bizarro (Comic-Con 2012 Exclusive)",
-   "MinifigCategory": "Super Heroes / General",
+   "MinifigCategory": "Super Heroes / Superman",
    "OwnedInSets": 0,
    "OwnedLoose": 1
  },
@@ -563,6 +584,13 @@
    "MinifigNumber": "cty290",
    "MinifigName": "Blue Jacket with Pockets and Orange Stripes, Blue Legs, Black Short Bill Cap, Gray Beard",
    "MinifigCategory": "Town / City",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "cty500",
+   "MinifigName": "Blue Jacket with Pockets and Orange Stripes, Dark Blue Legs, Red Cap with Hole, Sunglasses",
+   "MinifigCategory": "Town / City / Train",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -875,6 +903,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "twn250",
+   "MinifigName": "Child, Red Jacket with Ribbon (10251)",
+   "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "gs009",
    "MinifigName": "Chuck Stonebreaker",
    "MinifigCategory": "Space / Galaxy Squad",
@@ -1137,6 +1172,13 @@
    "MinifigNumber": "col159",
    "MinifigName": "Decorator - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 10 Minifigures",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "twn253",
+   "MinifigName": "Deli Owner (31050)",
+   "MinifigCategory": "Town / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1484,6 +1526,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "njo244",
+   "MinifigName": "Frakjaw - with Black Armor, Aviator Helmet and Goggles (70592)",
+   "MinifigCategory": "Ninjago / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "mof015",
    "MinifigName": "Frank Rock",
    "MinifigCategory": "Monster Fighters / General",
@@ -1570,7 +1619,7 @@
  {
    "MinifigNumber": "sh078",
    "MinifigName": "General Zod",
-   "MinifigCategory": "Super Heroes / Superman",
+   "MinifigCategory": "Super Heroes / Man of Steel",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1606,6 +1655,13 @@
    "MinifigNumber": "col168",
    "MinifigName": "Gingerbread Man - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 11 Minifigures",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "twn254",
+   "MinifigName": "Girl, Denim Jacket, Blue Short Legs (31050)",
+   "MinifigCategory": "Town / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1683,6 +1739,13 @@
    "MinifigNumber": "sw558",
    "MinifigName": "Gray Squadron Pilot (75050)",
    "MinifigCategory": "Star Wars / Star Wars Episode 4/5/6",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "sh153",
+   "MinifigName": "Green Arrow",
+   "MinifigCategory": "Super Heroes / Justice League",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2137,7 +2200,7 @@
  {
    "MinifigNumber": "sh044",
    "MinifigName": "Jean Grey in Phoenix Costume (Comic-Con 2012 Exclusive)",
-   "MinifigCategory": "Super Heroes / General",
+   "MinifigCategory": "Super Heroes / X-Men",
    "OwnedInSets": 0,
    "OwnedLoose": 1
  },
@@ -2165,7 +2228,7 @@
  {
    "MinifigNumber": "sh082",
    "MinifigName": "Jor-El",
-   "MinifigCategory": "Super Heroes / Superman",
+   "MinifigCategory": "Super Heroes / Man of Steel",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2236,6 +2299,13 @@
    "MinifigNumber": "cas474",
    "MinifigName": "Kingdoms - Lion Knight Quarters, Helmet with Broad Brim, Quiver, Open Grin",
    "MinifigCategory": "Castle / Kingdoms",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "njo247",
+   "MinifigName": "Krazi - Red Loincloth, Jester's Cap (70592)",
+   "MinifigCategory": "Ninjago / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2327,6 +2397,20 @@
    "MinifigNumber": "col185",
    "MinifigName": "Lifeguard - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 12 Minifigures",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "trn235",
+   "MinifigName": "Light Orange Safety Vest, Dark Bluish Gray Legs, Red Construction Helmet, Brown Beard",
+   "MinifigCategory": "Train / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "trn236",
+   "MinifigName": "Light Orange Safety Vest, Light Bluish Gray Legs, Red Cap with Hole, Headphones, Peach Lips",
+   "MinifigCategory": "Train / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2501,7 +2585,7 @@
  {
    "MinifigNumber": "sh114",
    "MinifigName": "Martian Manhunter",
-   "MinifigCategory": "Super Heroes / General",
+   "MinifigCategory": "Super Heroes / Justice League",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2556,7 +2640,7 @@
  },
  {
    "MinifigNumber": "hol066",
-   "MinifigName": "Medium Blue Jacket with Light Purple Scarf, Medium Lavender Short Legs, Bright Light Yellow Hair Female Ponytail (10249)",
+   "MinifigName": "Medium Blue Jacket with Light Purple Scarf, Medium Lavender Short Legs, Bright Light Yellow Ponytail and Swept Sideways Fringe (10249)",
    "MinifigCategory": "Holiday / Christmas",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -2622,6 +2706,13 @@
    "MinifigName": "Mirkwood Elf Archer - Dark Green Outfit, Dual Sided Head",
    "MinifigCategory": "The Hobbit and the Lord of the Rings / The Hobbit",
    "OwnedInSets": 4,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "twn249",
+   "MinifigName": "Mom, Bright Pink Top with Butterflies and Flowers, Lime Legs (10251)",
+   "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
@@ -2759,7 +2850,7 @@
  },
  {
    "MinifigNumber": "sh085",
-   "MinifigName": "Nightwing",
+   "MinifigName": "Nightwing - Red Eye Holes and Chest Symbol",
    "MinifigCategory": "Super Heroes / Batman II",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -2795,6 +2886,13 @@
  {
    "MinifigNumber": "njo003",
    "MinifigName": "Nuckal - Vertical Hand Clips",
+   "MinifigCategory": "Ninjago / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "njo245",
+   "MinifigName": "Nya - Skybound, Hair (70592)",
    "MinifigCategory": "Ninjago / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -2866,6 +2964,13 @@
    "MinifigNumber": "hol067",
    "MinifigName": "Overalls Farmer Green, Dark Tan Hair and Beard (10249)",
    "MinifigCategory": "Holiday / Christmas",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "cty499",
+   "MinifigName": "Overalls Farmer Green, Green Cap with Hole, Brown Moustache and Goatee",
+   "MinifigCategory": "Town / City / Train",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2976,7 +3081,7 @@
  },
  {
    "MinifigNumber": "pln175",
-   "MinifigName": "Plain Red Torso with Red Arms, Dark Blue Legs, Sports Helmet and Beard",
+   "MinifigName": "Plain Red Torso with Red Arms, Dark Blue Legs, Sports Helmet and Brown Beard",
    "MinifigCategory": "Town / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -3328,6 +3433,13 @@
    "MinifigNumber": "col133",
    "MinifigName": "Roman Emperor - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series  9 Minifigures",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "njo246",
+   "MinifigName": "Ronin (70592)",
+   "MinifigCategory": "Ninjago / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -3698,7 +3810,7 @@
  {
    "MinifigNumber": "sh077",
    "MinifigName": "Superman - Dark Blue Suit",
-   "MinifigCategory": "Super Heroes / Superman",
+   "MinifigCategory": "Super Heroes / Man of Steel",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -3899,8 +4011,22 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "nex022",
+   "MinifigName": "Ultimate Beast Master (70334)",
+   "MinifigCategory": "Nexo Knights / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "nex023",
    "MinifigName": "Ultimate Clay (70330)",
+   "MinifigCategory": "Nexo Knights / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "nex054",
+   "MinifigName": "Ultimate Flama (70339)",
    "MinifigCategory": "Nexo Knights / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -3986,6 +4112,13 @@
    "MinifigNumber": "tlm092",
    "MinifigName": "Vitruvius - Ghost Shroud (70818)",
    "MinifigCategory": "The Lego Movie / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "cty685",
+   "MinifigName": "Volcano Explorer - Male Worker, Suit with Harness, Construction Helmet, Breathing Neck Gear with Yellow Airtanks, Trans-Black Visor, Goatee (30350)",
+   "MinifigCategory": "Town / City / Volcano Explorers",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },

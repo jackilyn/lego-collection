@@ -442,7 +442,7 @@
  {
    "Number": "6866-1",
    "Theme": "Marvel Super Heroes",
-   "Subtheme": "X-Men",
+   "Subtheme": "Comics",
    "Year": 2012,
    "SetName": "Wolverine's Chopper Showdown",
    "Pieces": 199,
@@ -631,8 +631,8 @@
  },
  {
    "Number": "8411-1",
-   "Theme": "Ben 10",
-   "Subtheme": "Alien Force",
+   "Theme": "Ben 10: Alien Force",
+   "Subtheme": "",
    "Year": 2010,
    "SetName": "ChromaStone",
    "Pieces": 22,
@@ -897,6 +897,16 @@
    "SetName": "Winter Toy Shop",
    "Pieces": 898,
    "USPrice": 79.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "10251-1",
+   "Theme": "Advanced Models",
+   "Subtheme": "Modular Buildings",
+   "Year": 2016,
+   "SetName": "Brick Bank",
+   "Pieces": 2380,
+   "USPrice": 169.99,
    "QtyOwned": 1
  },
  {
@@ -1202,11 +1212,21 @@
  {
    "Number": "30315-1",
    "Theme": "City",
-   "Subtheme": "Space Port",
+   "Subtheme": "Space",
    "Year": 2015,
    "SetName": "Space Utility Vehicle",
    "Pieces": 37,
    "USPrice": 3.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "30350-1",
+   "Theme": "City",
+   "Subtheme": "Volcano Explorers",
+   "Year": 2016,
+   "SetName": "Volcano Jackhammer",
+   "Pieces": 53,
+   "USPrice": null,
    "QtyOwned": 1
  },
  {
@@ -1218,6 +1238,16 @@
    "Pieces": 40,
    "USPrice": null,
    "QtyOwned": 3
+ },
+ {
+   "Number": "30474-1",
+   "Theme": "Creator",
+   "Subtheme": "Seasonal",
+   "Year": 2016,
+   "SetName": "Reindeer",
+   "Pieces": 77,
+   "USPrice": 3.49,
+   "QtyOwned": 1
  },
  {
    "Number": "31003-1",
@@ -2430,6 +2460,16 @@
    "QtyOwned": 1
  },
  {
+   "Number": "60052-1",
+   "Theme": "City",
+   "Subtheme": "Trains",
+   "Year": 2014,
+   "SetName": "Cargo Train",
+   "Pieces": 888,
+   "USPrice": 199.99,
+   "QtyOwned": 1
+ },
+ {
    "Number": "60057-1",
    "Theme": "City",
    "Subtheme": "Traffic",
@@ -2656,6 +2696,26 @@
    "Year": 2016,
    "SetName": "Ultimate Clay",
    "Pieces": 72,
+   "USPrice": 9.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "70334-1",
+   "Theme": "Nexo Knights",
+   "Subtheme": "Ultimate",
+   "Year": 2016,
+   "SetName": "Ultimate Beast Master",
+   "Pieces": 65,
+   "USPrice": 9.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "70339-1",
+   "Theme": "Nexo Knights",
+   "Subtheme": "Ultimate",
+   "Year": 2016,
+   "SetName": "Ultimate Flama",
+   "Pieces": 67,
    "USPrice": 9.99,
    "QtyOwned": 1
  },
@@ -3007,6 +3067,16 @@
    "SetName": "Double-Decker Couch",
    "Pieces": 197,
    "USPrice": 14.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "70904-1",
+   "Theme": "The LEGO Batman Movie",
+   "Subtheme": "",
+   "Year": 2017,
+   "SetName": "Clayface Splat Attack",
+   "Pieces": 448,
+   "USPrice": 34.99,
    "QtyOwned": 1
  },
  {
@@ -3492,7 +3562,7 @@
  {
    "Number": "71004-1",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Calamity Drone",
    "Pieces": 7,
@@ -3502,7 +3572,7 @@
  {
    "Number": "71004-2",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "President Business",
    "Pieces": 5,
@@ -3512,7 +3582,7 @@
  {
    "Number": "71004-3",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Hard Hat Emmet",
    "Pieces": 5,
@@ -3522,7 +3592,7 @@
  {
    "Number": "71004-4",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Wild West Wyldstyle",
    "Pieces": 6,
@@ -3532,7 +3602,7 @@
  {
    "Number": "71004-5",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Abraham Lincoln",
    "Pieces": 6,
@@ -3542,7 +3612,7 @@
  {
    "Number": "71004-6",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Mrs. Scratchen-Post",
    "Pieces": 5,
@@ -3552,7 +3622,7 @@
  {
    "Number": "71004-7",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Scribble-Face Bad Cop",
    "Pieces": 6,
@@ -3562,7 +3632,7 @@
  {
    "Number": "71004-8",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "William Shakespeare",
    "Pieces": 7,
@@ -3572,7 +3642,7 @@
  {
    "Number": "71004-9",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Gail the Construction Worker",
    "Pieces": 5,
@@ -3582,7 +3652,7 @@
  {
    "Number": "71004-10",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Larry the Barista",
    "Pieces": 5,
@@ -3592,7 +3662,7 @@
  {
    "Number": "71004-11",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Velma Staplebot",
    "Pieces": 5,
@@ -3602,7 +3672,7 @@
  {
    "Number": "71004-12",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Taco Tuesday Guy",
    "Pieces": 9,
@@ -3612,7 +3682,7 @@
  {
    "Number": "71004-13",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Where are my Pants? Guy",
    "Pieces": 5,
@@ -3622,7 +3692,7 @@
  {
    "Number": "71004-14",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Wiley Fusebot",
    "Pieces": 7,
@@ -3632,7 +3702,7 @@
  {
    "Number": "71004-15",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Panda Guy",
    "Pieces": 5,
@@ -3642,7 +3712,7 @@
  {
    "Number": "71004-16",
    "Theme": "Collectable Minifigures",
-   "Subtheme": "The LEGO Movie Series",
+   "Subtheme": "The LEGO Movie",
    "Year": 2014,
    "SetName": "Marsha Queen of the Mermaids",
    "Pieces": 6,
@@ -4950,6 +5020,36 @@
    "QtyOwned": 1
  },
  {
+   "Number": "71173-1",
+   "Theme": "Dimensions",
+   "Subtheme": "Starter Pack",
+   "Year": 2015,
+   "SetName": "Starter Pack: Xbox 360",
+   "Pieces": 267,
+   "USPrice": 79.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71245-1",
+   "Theme": "Dimensions",
+   "Subtheme": "Level Pack",
+   "Year": 2016,
+   "SetName": "Adventure Time Level Pack",
+   "Pieces": 102,
+   "USPrice": 29.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71342-1",
+   "Theme": "Dimensions",
+   "Subtheme": "Promotional",
+   "Year": 2016,
+   "SetName": "Green Arrow",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
    "Number": "75000-1",
    "Theme": "Star Wars",
    "Subtheme": "Episode II",
@@ -5554,7 +5654,7 @@
    "Theme": "Bionicle",
    "Subtheme": "Packs",
    "Year": 2015,
-   "SetName": "Bionicle Hero Pack",
+   "SetName": "Hero Pack",
    "Pieces": 9,
    "USPrice": null,
    "QtyOwned": 1
