@@ -294,6 +294,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm08",
+   "MinifigName": "Arkham Asylum Joker - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "twn193",
    "MinifigName": "Artist, Female (10243)",
    "MinifigCategory": "Town / General",
@@ -337,14 +344,14 @@
  },
  {
    "MinifigNumber": "elf016",
-   "MinifigName": "Azari Firedancer - Bright Light Orange",
+   "MinifigName": "Azari Firedancer, Bright Light Orange",
    "MinifigCategory": "Elves / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
    "MinifigNumber": "elf003",
-   "MinifigName": "Azari Firedancer - Magenta",
+   "MinifigName": "Azari Firedancer, Magenta",
    "MinifigCategory": "Elves / General",
    "OwnedInSets": 2,
    "OwnedLoose": 0
@@ -427,6 +434,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm06",
+   "MinifigName": "Barbara Gordon - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "col163",
    "MinifigName": "Barbarian - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 11 Minifigures",
@@ -473,6 +487,13 @@
    "MinifigName": "Batman - Black Suit with Yellow Belt and Crest (Type 2 Cowl)",
    "MinifigCategory": "Super Heroes / Batman II",
    "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "sh318",
+   "MinifigName": "Batman - Utility Belt, Head Type 2",
+   "MinifigCategory": "Super Heroes / The LEGO Batman Movie",
+   "OwnedInSets": 2,
    "OwnedLoose": 0
  },
  {
@@ -610,14 +631,14 @@
  },
  {
    "MinifigNumber": "twn191",
-   "MinifigName": "Businessman Pinstriped Jacket and Gold Tie, Dark Tan Legs, Tan Tousled and Layered Hair",
+   "MinifigName": "Businessman Pinstripe Jacket and Gold Tie, Dark Tan Legs, Tan Tousled and Layered Hair",
    "MinifigCategory": "Town / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
    "MinifigNumber": "hol069",
-   "MinifigName": "Businessman Pinstriped Jacket and Gold Tie, Light Bluish Gray Legs, Dark Brown Hair Short Tousled with Side Part (10249)",
+   "MinifigName": "Businessman Pinstripe Jacket and Gold Tie, Light Bluish Gray Legs, Dark Brown Hair Short Tousled with Side Part (10249)",
    "MinifigCategory": "Holiday / Christmas",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -638,7 +659,7 @@
  },
  {
    "MinifigNumber": "sw565",
-   "MinifigName": "C1-10P",
+   "MinifigName": "C1-10P (Chopper)",
    "MinifigCategory": "Star Wars / Star Wars Rebels",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -647,6 +668,13 @@
    "MinifigNumber": "tlm001",
    "MinifigName": "Calamity Drone - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / The Lego Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm18",
+   "MinifigName": "Calculator - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -847,6 +875,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm16",
+   "MinifigName": "Catman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "sh006",
    "MinifigName": "Catwoman",
    "MinifigCategory": "Super Heroes / Batman II",
@@ -913,6 +948,13 @@
    "MinifigNumber": "gs009",
    "MinifigName": "Chuck Stonebreaker",
    "MinifigCategory": "Space / Galaxy Squad",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm04",
+   "MinifigName": "Clan of the Cave Batman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1022,6 +1064,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm07",
+   "MinifigName": "Commissioner Gordon - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "col108",
    "MinifigName": "Computer Programmer - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series  7 Minifigures",
@@ -1059,7 +1108,7 @@
  {
    "MinifigNumber": "cas542",
    "MinifigName": "Crusader Lion - Light Bluish Gray Legs, Light Bluish Gray Neck-Protector (Reissue)",
-   "MinifigCategory": "Castle / Classic Castle",
+   "MinifigCategory": "Castle / Crusaders",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1186,6 +1235,13 @@
    "MinifigNumber": "twn223",
    "MinifigName": "Detective Ace Brickman (10246)",
    "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm09",
+   "MinifigName": "Dick Grayson - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1365,6 +1421,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm12",
+   "MinifigName": "Eraser - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "loc037",
    "MinifigName": "Eris - Pearl Gold Heavy Armor",
    "MinifigCategory": "Legends of Chima / General",
@@ -1410,6 +1473,13 @@
    "MinifigNumber": "sw574a",
    "MinifigName": "Ezra Bridger with Helmet",
    "MinifigCategory": "Star Wars / Star Wars Rebels",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm03",
+   "MinifigName": "Fairy Batman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -1460,6 +1530,13 @@
    "MinifigName": "Fencer - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 13 Minifigures",
    "OwnedInSets": 2,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "dim038",
+   "MinifigName": "Finn the Human - Dimensions Level Pack",
+   "MinifigCategory": "Dimensions / Adventure Time",
+   "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
@@ -1662,6 +1739,13 @@
    "MinifigNumber": "twn254",
    "MinifigName": "Girl, Denim Jacket, Blue Short Legs (31050)",
    "MinifigCategory": "Town / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm02",
+   "MinifigName": "Glam Metal Batman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2289,8 +2373,22 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm19",
+   "MinifigName": "King Tut - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "nex015",
    "MinifigName": "King's Bot",
+   "MinifigCategory": "Nexo Knights / General",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "nex075",
+   "MinifigName": "King's Guard (5004390)",
    "MinifigCategory": "Nexo Knights / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -2443,6 +2541,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm01",
+   "MinifigName": "Lobster Lovin’ Batman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "sh033",
    "MinifigName": "Loki - Traditional Starched Fabric Cape",
    "MinifigCategory": "Super Heroes / Avengers",
@@ -2555,6 +2660,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm17",
+   "MinifigName": "March Harriet - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "sim009",
    "MinifigName": "Marge Simpson - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / The Simpsons",
@@ -2607,6 +2719,13 @@
    "MinifigNumber": "gs015",
    "MinifigName": "Max Solarflare",
    "MinifigCategory": "Space / Galaxy Squad",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "sh350",
+   "MinifigName": "Mayor McCaskill",
+   "MinifigCategory": "Super Heroes / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2684,6 +2803,13 @@
    "MinifigNumber": "sim015",
    "MinifigName": "Milhouse Van Houten - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / The Simpsons",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm20",
+   "MinifigName": "Mime - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -2801,7 +2927,7 @@
  },
  {
    "MinifigNumber": "elf002a",
-   "MinifigName": "Naida Riverheart with Bright Pink Flower",
+   "MinifigName": "Naida Riverheart, Bright Pink Flower",
    "MinifigCategory": "Elves / General",
    "OwnedInSets": 1,
    "OwnedLoose": 0
@@ -2891,6 +3017,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm13",
+   "MinifigName": "Nurse Harley Quinn - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "njo245",
    "MinifigName": "Nya - Skybound, Hair (70592)",
    "MinifigCategory": "Ninjago / General",
@@ -2930,6 +3063,13 @@
    "MinifigName": "Orange Robot Sidekick",
    "MinifigCategory": "Space / Galaxy Squad",
    "OwnedInSets": 2,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm14",
+   "MinifigName": "Orca - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
@@ -3042,6 +3182,13 @@
    "MinifigName": "Piggy Guy - Minifig only Entry",
    "MinifigCategory": "Collectible Minifigures / Series 12 Minifigures",
    "OwnedInSets": 3,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm10",
+   "MinifigName": "Pink Power Batgirl - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
    "OwnedLoose": 0
  },
  {
@@ -3300,6 +3447,13 @@
    "MinifigNumber": "sw399",
    "MinifigName": "Rebel Pilot X-wing (9677)",
    "MinifigCategory": "Star Wars / Star Wars Episode 4/5/6",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm11",
+   "MinifigName": "Red Hood - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },
@@ -4081,6 +4235,13 @@
    "OwnedLoose": 0
  },
  {
+   "MinifigNumber": "coltlbm05",
+   "MinifigName": "Vacation Batman - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
    "MinifigNumber": "loc080",
    "MinifigName": "Vardy",
    "MinifigCategory": "Legends of Chima / General",
@@ -4378,6 +4539,13 @@
    "MinifigNumber": "sw260",
    "MinifigName": "Zev Senesca",
    "MinifigCategory": "Star Wars / Star Wars Episode 4/5/6",
+   "OwnedInSets": 1,
+   "OwnedLoose": 0
+ },
+ {
+   "MinifigNumber": "coltlbm15",
+   "MinifigName": "Zodiac Master - Minifig Only Entry",
+   "MinifigCategory": "Collectible Minifigures / The LEGO Batman Movie",
    "OwnedInSets": 1,
    "OwnedLoose": 0
  },

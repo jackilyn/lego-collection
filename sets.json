@@ -424,7 +424,7 @@
    "Theme": "DC Comics Super Heroes",
    "Subtheme": "Superman",
    "Year": 2012,
-   "SetName": "Superman vs Power Armor Lex",
+   "SetName": "Superman vs. Power Armor Lex",
    "Pieces": 207,
    "USPrice": 19.99,
    "QtyOwned": 1
@@ -635,7 +635,7 @@
    "Subtheme": "",
    "Year": 2010,
    "SetName": "ChromaStone",
-   "Pieces": 22,
+   "Pieces": 21,
    "USPrice": 14.99,
    "QtyOwned": 1
  },
@@ -1032,7 +1032,7 @@
  {
    "Number": "30115-1",
    "Theme": "Friends",
-   "Subtheme": "",
+   "Subtheme": "Jungle Rescue",
    "Year": 2014,
    "SetName": "Jungle Boat",
    "Pieces": 31,
@@ -1247,6 +1247,16 @@
    "SetName": "Reindeer",
    "Pieces": 77,
    "USPrice": 3.49,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "30522-1",
+   "Theme": "The LEGO Batman Movie",
+   "Subtheme": "",
+   "Year": 2017,
+   "SetName": "Batman in the Phantom Zone",
+   "Pieces": 59,
+   "USPrice": null,
    "QtyOwned": 1
  },
  {
@@ -4865,7 +4875,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Ice Queen",
-   "Pieces": null,
+   "Pieces": 11,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4875,7 +4885,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Desert Warrior",
-   "Pieces": null,
+   "Pieces": 5,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4885,7 +4895,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Cyborg",
-   "Pieces": null,
+   "Pieces": 7,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4895,7 +4905,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Cute Little Devil",
-   "Pieces": null,
+   "Pieces": 9,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4905,7 +4915,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Spooky Boy",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4915,7 +4925,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Hiker",
-   "Pieces": null,
+   "Pieces": 7,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4925,7 +4935,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Wildlife Photographer",
-   "Pieces": null,
+   "Pieces": 7,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4935,7 +4945,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Kickboxer",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4945,7 +4955,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Scallywag Pirate",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4955,7 +4965,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Penguin Boy",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4965,7 +4975,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Rogue",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4975,7 +4985,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Dog Show Winner",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4985,7 +4995,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Mariachi",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -4995,7 +5005,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Spy",
-   "Pieces": null,
+   "Pieces": 8,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -5005,7 +5015,7 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Banana Guy",
-   "Pieces": null,
+   "Pieces": 4,
    "USPrice": 3.99,
    "QtyOwned": 1
  },
@@ -5015,8 +5025,208 @@
    "Subtheme": "Series 16",
    "Year": 2016,
    "SetName": "Babysitter",
-   "Pieces": null,
+   "Pieces": 6,
    "USPrice": 3.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-1",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Lobster-Lovin' Batman",
+   "Pieces": 6,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-2",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Glam Metal Batman",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-3",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Fairy Batman",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-4",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Clan of the Cave Batman",
+   "Pieces": 6,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-5",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Vacation Batman",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-6",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Barbara Gordon",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-7",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Commissioner Gordon",
+   "Pieces": 6,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-8",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Arkham Asylum Joker",
+   "Pieces": 5,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-9",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Dick Grayson",
+   "Pieces": 6,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-10",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Pink Power Batgirl",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-11",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Red Hood",
+   "Pieces": 8,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-12",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Eraser",
+   "Pieces": 5,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-13",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Nurse Harley Quinn",
+   "Pieces": 6,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-14",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Orca",
+   "Pieces": 4,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-15",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Zodiac Master",
+   "Pieces": 5,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-16",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Catman",
+   "Pieces": 8,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-17",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "March Harriet",
+   "Pieces": 5,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-18",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Calculator",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-19",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "King Tut",
+   "Pieces": 7,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71017-20",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "The LEGO Batman Movie",
+   "Year": 2017,
+   "SetName": "Mime",
+   "Pieces": 6,
+   "USPrice": null,
    "QtyOwned": 1
  },
  {
@@ -5546,7 +5756,7 @@
    "Year": 2014,
    "SetName": "Boba Fett",
    "Pieces": null,
-   "USPrice": 5.99,
+   "USPrice": 4.99,
    "QtyOwned": 1
  },
  {
