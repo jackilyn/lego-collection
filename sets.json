@@ -1400,6 +1400,16 @@
    "QtyOwned": 1
  },
  {
+   "Number": "31065-1",
+   "Theme": "Creator",
+   "Subtheme": "",
+   "Year": 2017,
+   "SetName": "Park Street Townhouse",
+   "Pieces": 566,
+   "USPrice": 49.99,
+   "QtyOwned": 1
+ },
+ {
    "Number": "40034-1",
    "Theme": "Seasonal",
    "Subtheme": "Christmas",
@@ -2726,6 +2736,16 @@
    "Year": 2016,
    "SetName": "Ultimate Flama",
    "Pieces": 67,
+   "USPrice": 9.99,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "70366-1",
+   "Theme": "Nexo Knights",
+   "Subtheme": "Battle Suits",
+   "Year": 2017,
+   "SetName": "Battle Suit Lance",
+   "Pieces": 83,
    "USPrice": 9.99,
    "QtyOwned": 1
  },
@@ -5227,6 +5247,166 @@
    "SetName": "Mime",
    "Pieces": 6,
    "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-1",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Professional Surfer",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-2",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Circus Strong Man",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-3",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Gourmet Chef",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-4",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Corn Cob Guy",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-5",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Veterinarian",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-6",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Hot Dog Man",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-7",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Butterfly Girl",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-8",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Roman Gladiator",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-9",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Connoisseur",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-10",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Battle Dwarf",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 2
+ },
+ {
+   "Number": "71018-11",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Retro Spaceman",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-12",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Yuppie",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-13",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Rocket Boy",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-14",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Dance Instructor",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-15",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Elf Girl",
+   "Pieces": null,
+   "USPrice": null,
+   "QtyOwned": 1
+ },
+ {
+   "Number": "71018-16",
+   "Theme": "Collectable Minifigures",
+   "Subtheme": "Series 17",
+   "Year": 2017,
+   "SetName": "Highwayman",
+   "Pieces": null,
+   "USPrice": 3.99,
    "QtyOwned": 1
  },
  {
